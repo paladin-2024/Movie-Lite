@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.1.11",
     "@vercel/speed-insights": "^1.2.0",
     "appwrite": "^18.1.1",
+    "expo": "^54.0.7",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-use": "^17.6.0",
