@@ -37,7 +37,7 @@ const App = () => {
             const response = await fetch(endpoint,API_OPTIONS);
 
             if (!response.ok) {
-                throw new Error('Failed to fetch movie');
+                throw new Error('Failed to fetch movies');
             }
             const data= await response.json();
             if (data.Response == 'False'){
